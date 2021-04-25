@@ -15,4 +15,4 @@ I'm Just Random Person<br>
 ![Top Langs](https://ghsts.bayuu.xyz/api/top-langs/?username=BayuBatam2008&layout=compact&theme=vue-dark)
 
 ## Spotify
-[![Spotify](https://spotifynp.bayuu.xyz/api/spotify)](https://open.spotify.com/user/USER_NAME)
+[![Spotify](https://spotifynp.bayuu.xyz/api/spotify)](https://open.spotify.com/user/pbly8pk829ntmv3b7c1uppy00)
