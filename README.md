@@ -13,3 +13,6 @@ I'm Just Random Person<br>
 
 ## My Top Language
 ![Top Langs](https://ghsts.bayuu.xyz/api/top-langs/?username=BayuBatam2008&layout=compact&theme=vue-dark)
+
+## Spotify
+[![Spotify](https://spotifynp.bayuu.xyz/api/spotify)](https://open.spotify.com/user/USER_NAME)
