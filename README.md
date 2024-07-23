@@ -7,6 +7,6 @@ A random person on the Internet<br>
 
 ## Reach Me!
 <p align="center">
-<a href="https://palpale.my.id"><img alt="Website" src="https://img.shields.io/badge/WEBSITE-papale.my.id-blue?style=for-the-badge&logo=google-chrome"></a>
+<a href="https://papale.my.id"><img alt="Website" src="https://img.shields.io/badge/WEBSITE-papale.my.id-blue?style=for-the-badge&logo=google-chrome"></a>
 </p>
 
