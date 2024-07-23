@@ -2,8 +2,8 @@
 A random person on the Internet<br>
 
 - 🌱 I’m just a beginner
-- 🤖 Just for the sake of my life, i just do this when i have the time.
-- 😄 I'm not good at all. If you want to hire me, please don't
+- 🗿 Just for the sake of my life, i just do this when i have the time.
+- ☠️ I'm not good at all. If you want to hire me, please don't
 
 ## Reach Me!
 <p align="center">
