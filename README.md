@@ -10,3 +10,7 @@ A random person on the Internet<br>
 <a href="https://papale.my.id"><img alt="Website" src="https://img.shields.io/badge/WEBSITE-papale.my.id-blue?style=for-the-badge&logo=google-chrome"></a>
 </p>
 
+#### Views
+<p align="center">
+<a href="https://visitcount.itsvg.in"><img alt="Website" src="https://visitcount.itsvg.in/api?id=BayuBatam2008&label=Views&color=9&icon=5&pretty=true"></a>
+</p>
