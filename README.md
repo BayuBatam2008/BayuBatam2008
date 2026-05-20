@@ -20,13 +20,3 @@
 <p align="center">
 <a><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"></a>
 </p>
-
-### 🔝 Top Contributed Repo
-<p align="center">
-<a><img src="https://github-contributor-stats.vercel.app/api?username=BayuBatam2008&limit=5&theme=one_dark_pro&combine_all_yearly_contributions=true"></a>
-</p>
-
-### 👁️ Views
-<p align="center">
-<a href="https://visitcount.itsvg.in"><img alt="Website" src="https://visitcount.itsvg.in/api?id=BayuBatam2008&label=Views&color=9&icon=5&pretty=true"></a>
-</p>
